@@ -1,0 +1,90 @@
+* {
+    background-image: linear-gradient(to top, orange, aqua, gray);
+}
+input {
+    background-image: none;
+}
+.inputs {
+    background: none;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.container1 {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    background: none;
+    
+}
+.container1 h1 {
+    background: none;
+    text-align: center;
+}
+
+.container1 h1 p {
+    margin-left: 20px;
+    text-align: left;
+    background: none;
+    background-image: none;
+}
+
+.container1 .button {
+    margin-left: 5px;
+}
+
+
+.container2 {
+    margin-top: 50px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+    background: none;
+}
+.container2 h1 {
+    background: none;
+}
+.container2 h2 {
+    background: none;
+    text-align: center;
+    
+}
+
+.container2 .titlebutton {
+    background: none;
+    margin-left: 50px;
+}
+.container2 .images {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    transition-duration: 0.4s;
+    background: none;
+    margin-left: 265px;
+  }
+  
+  .button:hover {
+    background-color: linear-gradient(to top, orange, aqua, gray);
+    color: white;
+    
+  }
+
+
+
+.container2 .images{
+    background: none;
+}
+
+.container2 h3 {
+    background: none;
+}
+
+body {
+    margin-top: 80px;
+   
+}
